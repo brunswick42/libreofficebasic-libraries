@@ -27,6 +27,9 @@ Creates a text document that lists all AutoText entries.
 `InsertStringToCell(sCellString as String, oCell as Object, sCellStyle as String)`
 
 ##### Parameters
-`sCellString` - 
-`oCell` -
-`sCellStyle` - 
+`sCellString` -  
+`oCell` -  
+`sCellStyle` -
+
+## ChangeAllChars
+
